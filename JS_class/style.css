@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+}
+
+.images{
+	z-index: 10;
+
+}
+
+.title{
+	font-size: 30px;
+	color: white;
+	z-index: 100;
+	border: 50vw;
+}
+
