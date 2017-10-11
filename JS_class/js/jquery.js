@@ -14,6 +14,7 @@ var currentbg = choice(bg);
 var containers = ['container1','container2','container3'];
 var currentcontainer = choice(containers);
 
+//randomly generate a div
 var elems = $("div");
 if (elems.length) {
   var keep = Math.floor(Math.random() * elems.length);
