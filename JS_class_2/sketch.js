@@ -29,7 +29,7 @@ var sounds = [];
 
 function preload(){
   sound0 = loadSound('assets/Juice.mp3')
-  sound1 = loadSound('assets/sayyes.mp3');
+  sound1 = loadSound('assets/animal.mp3');
   sound2 = loadSound('assets/MadWorld.mp3');
   sound3 = loadSound('assets/Stars.mp3');
   sound4 = loadSound('assets/WhatsUp.mp3');
