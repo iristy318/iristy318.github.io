@@ -29,13 +29,13 @@ var sounds = [];
 
 function preload(){
   sound0 = loadSound('assets/Juice.mp3')
-  sound1 = loadSound('../assets/say yes.mp3');
-  sound2 = loadSound('../assets/Mad World.mp3');
-  sound3 = loadSound('../assets/Stars.mp3');
-  sound4 = loadSound('../assets/Whats Up.mp3');
-  sound5 = loadSound('../assets/Cherry Bomb.mp3');
-  sound6 = loadSound('../assets/Wisdom.mp3');
-  sound7 = loadSound('../assets/Sadness.mp3');
+  sound1 = loadSound('assets/say yes.mp3');
+  sound2 = loadSound('assets/Mad World.mp3');
+  sound3 = loadSound('assets/Stars.mp3');
+  sound4 = loadSound('assets/Whats Up.mp3');
+  sound5 = loadSound('assets/Cherry Bomb.mp3');
+  sound6 = loadSound('assets/Wisdom.mp3');
+  sound7 = loadSound('assets/Sadness.mp3');
   //beat = loadSound('../assets/be.mp3')
 
 }
