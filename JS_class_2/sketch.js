@@ -1,25 +1,3 @@
-// var beat;
-
-// function preload(){
-//   beat = loadSound('../assets/be.mp3');
-//   airhorn = loadSound('../assets/airhorn.mp3');
-// }
-
-// function setup() {
-//   createCanvas(windowWidth,windowHeight);
-//   background(32,32,32);
-// }
-
-// function mousePressed() {
-//   if ( beat.isPlaying() ) { 
-//     beat.stop();
-//     background(255,0,0);
-//   } else {
-//     beat.play();
-//     background(0,255,0);
-//   }
-// }
-
 var beat;
 var col;
 var b = [];
