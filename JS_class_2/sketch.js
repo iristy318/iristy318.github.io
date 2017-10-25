@@ -103,7 +103,7 @@ function draw() {
 
   textSize(40);
   fill(255);
-  text("PLAY!",windowWidth/2-50,windowHeight/2);
+  text("PLAY with the Bubbles!",windowWidth/2-50,windowHeight/2);
 
 //draw large circle
   stroke(255);
