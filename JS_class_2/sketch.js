@@ -79,12 +79,9 @@ function draw() {
 
   background(32);
 
-  textSize(40);
+  textSize(30);
   fill(255);
-  text("PLAY",windowWidth/2-50,windowHeight/2);
-  text("WITH",windowWidth/2-50,windowHeight/2-20);
-  text("THE",windowWidth/2-50,windowHeight/2-20);
-  text("BUBBLES",windowWidth/2-50,windowHeight/2-20);
+  text("PLAY WITH BUBBLES",windowWidth/2-150,windowHeight/2);
 
 //draw large circle
   stroke(255);
