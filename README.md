@@ -13,6 +13,6 @@ By Iris
 
 ## Openframeworks homework2: Catch the Ball
 * [See scripts here](https://github.com/iristy318/iristy318.github.io/tree/master/ofw_homework1121)
-* [Demo Video] (https://youtu.be/BCE3bd3G33I)
+* [Demo Video](https://youtu.be/BCE3bd3G33I)
 
 ## Javascriot homework3: Dynamic Website
