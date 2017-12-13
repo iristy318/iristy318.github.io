@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+body{
+	background-color: rgb(32,32,32);
+	font-family: 'Amatic SC', cursive;
+	background-image: url("galaxy.jpg");
+}
+
+#main{
+	margin: auto; 
+	width: 50vw; 
+	text-align: center; 
+	margin-top: 18vh;
+	z-index: 20;
+}
+
+img{
+	width: 950px;
+	height: 449px;
+	display: block;
+	margin-left: 15vw;
+	margin-top: 10vh;
+}
+
+#enter{
+	font-family: 'Amatic SC', cursive;
+	font-size: 25px; 
+	border: 1px solid white; 
+	background-color: transparent; 
+	padding: 15px 25px; 
+	color: white; 
+	cursor: pointer;
+	margin-top: 10vh;
+	margin-left: 45vw;
+	z-index: 20;
+}
+
+#enter:hover{
+	background-color: white;
+    color: black;
+}
+

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Barlow');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+body{
+	background-color: rgb(32,32,32);
+	
+	/*background-image: url("galaxy.jpg");*/
+}
+
+p{
+	text-align: center;
+	color: white;
+	font-family: 'Amatic SC', cursive;
+	font-size: 50px;
+}
