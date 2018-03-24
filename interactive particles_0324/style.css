@@ -1,0 +1,31 @@
+
+.next {
+	position: absolute; 
+	margin-top: 85vh; 
+	margin-left: 41vw; 
+	font-size: 20px; 
+	color: white; 
+	background-color: black; 
+	border: 2px solid white;
+	border-radius: 2px;
+	padding: 14px 40px;
+	transition-duration: 0.2s;
+}
+
+.back {
+	position: absolute; 
+	margin-top: 85vh; 
+	margin-left: 44vw; 
+	font-size: 20px; 
+	color: white; 
+	background-color: black; 
+	border: 2px solid white;
+	border-radius: 2px;
+	padding: 14px 40px;
+	transition-duration: 0.2s;
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
