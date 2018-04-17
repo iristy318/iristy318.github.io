@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:900');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/css?family=Cutive');
+
+body{
+	background-color: black;
+}
+
+#title{
+	font-size: 600px;
+	color: black;
+	font-family: 'Raleway', sans-serif;
+	text-shadow: 6px 6px #ffffff;
+	position: relative;
+	width: 1440px;
+	height: 2000px;
+	right: 0px;
+	letter-spacing: 50px;
+/*	border: 2px solid black;
+*/}
+
+#content{
+	font-family: 'Cutive', serif;
+	font-size: 20px;
+	color: #F6595D;
+	line-height: 600%;
+	letter-spacing: 1px;
+/*	text-align: center;
+*/
+	top: 10vh;
+	left: 35vw;
+	z-index: 10;
+	position: absolute;
+	width: 30vw;
+/*	border: 2px solid black;
+*/}
